@@ -96,5 +96,4 @@ C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCo
 C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCode\obj\Debug\BotTelePlay_ExtremeCode.csproj.CopyComplete
 C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCode\obj\Debug\BotTelePlay_ExtremeCode.dll
 C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCode\obj\Debug\BotTelePlay_ExtremeCode.pdb
-C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCode\bin\BotTelePlay_ExtremeCode.dll.CodeAnalysisLog.xml
-C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCode\bin\BotTelePlay_ExtremeCode.dll.lastcodeanalysissucceeded
+C:\Users\igor.makeiev\source\repos\BotTelePlay_ExtremeCode\BotTelePlay_ExtremeCode\obj\Debug\BotTelePlay_ExtremeCode.csprojAssemblyReference.cache
