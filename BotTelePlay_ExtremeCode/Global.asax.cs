@@ -22,17 +22,6 @@ namespace BotTelePlay_ExtremeCode
 
             //ДЛЯ того чтоб работал WEB HOOK необходимо выполнить первичную инициализацию Бота !
             Bot.Get();
-
-            var config = new ConfigurationBuilder().AddCommandLine(args).Build();
-            var host = new WebHostBuilder()
-                .UseKestrel()
-                .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseConfiguration(config)
-                .UseIISIntegration()
-                .UseStartup<Startup>()
-                .Build();
-
-            host.Run();
         }
     }
 }
